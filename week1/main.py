@@ -1,0 +1,1 @@
+print("chung ta se cung nhau truong thanh, to hua day")
