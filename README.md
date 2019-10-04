@@ -1,2 +1,2 @@
 # Python-With-HITClub
-Chikapu
+I'm Sang, this repository is mine!
